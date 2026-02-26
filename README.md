@@ -1,4 +1,4 @@
-# CRM Home Business 🏠💼
+# CRM Home Business 💼
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-brightgreen)
